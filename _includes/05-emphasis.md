@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+The sublists **aren't working** like github said they would. when I indent *two spaces* on an *ordered sub-list* it **incorrectly** Continues the main ordered list.
